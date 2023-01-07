@@ -1,0 +1,15 @@
+.greenText {
+    color: green;
+    font-style: italic;
+    border: 1px solid ;
+} */
+
+ table, th, td{
+    border:1px solid black;
+}
+table{
+    border-collapse:collapse;
+}
+
+
+
